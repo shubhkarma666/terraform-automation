@@ -38,6 +38,6 @@ Terraform code is written using **HCL (HashiCorp Configuration Language)** and s
 
 ## Terraform Workflow
 ```bash
-terraform init
-terraform plan
-terraform apply --auto-approve
+terraform init #to initialize Terraform code
+terraform plan #plan
+terraform apply --auto-approve #auto approve to cut down the manual approval
