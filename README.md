@@ -41,3 +41,4 @@ Terraform code is written using **HCL (HashiCorp Configuration Language)** and s
 terraform init #to initialize Terraform code
 terraform plan #plan
 terraform apply --auto-approve #auto approve to cut down the manual approval
+terraform destroy --auto-approve #To Destroy automatically
